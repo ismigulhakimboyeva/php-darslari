@@ -1,22 +1,22 @@
  <?php
-// $day = "Juma";
-// switch($day) {
-// 	case "Juma";
-// 	case "Dushanba";
-// 	echo "Bugun Juma";
-// 	break;
-// 	case "Seshanba";
-// 	echo "Bugun Seshanba";
-// 	break;
-// 	case "Chorshanba";
-// 	echo "Bugun Chorshanba";
-// 	break;
-// 	case "Payshanba";
-// 	echo "Bugun Payshanba";
-// 	break;
-// 	default : 
-// 	echo "Siz yozgan hafta kuni topilmadi"; 
-// }
+ $day = "Juma";
+ switch($day) {
+ 	case "Juma";
+	case "Dushanba";
+  echo "Bugun Juma";
+ 	break;
+ 	case "Seshanba";
+ 	echo "Bugun Seshanba";
+ 	break;
+ 	case "Chorshanba";
+ 	echo "Bugun Chorshanba";
+ 	break;
+ 	case "Payshanba";
+ echo "Bugun Payshanba";
+ 	break;
+ 	default : 
+ 	echo "Siz yozgan hafta kuni topilmadi"; 
+ }
 //***  masala
 $color = "sariq";
 switch($color) {

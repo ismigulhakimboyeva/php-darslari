@@ -1,18 +1,18 @@
 <?php
-// $ball = 5;
-// if ($ball == 5 ){
-// 	echo "bahoingiz 5";
-// } elseif($ball == 4) {
-// 	echo "bahoingiz 4";
-// } elseif($ball == 3) {
-// 	echo "bahoingiz qoniqarsiz 3 !";
-// } elseif ($ball == 2) {
-// 	echo "bahoingiz juda qoniqarsiz 2 !";
-// } elseif( $ball == 1) {
-// 	echo "bahoingiz yomon 1 !";
-// } elseif ($ball == 0) {
-// 	echo "baho mavjud emas!";
-// }
+ $ball = 5;
+ if ($ball == 5 ){
+ 	echo "bahoingiz 5";
+ } elseif($ball == 4) {
+ 	echo "bahoingiz 4";
+ } elseif($ball == 3) {
+ 	echo "bahoingiz qoniqarsiz 3 !";
+ } elseif ($ball == 2) {
+ 	echo "bahoingiz juda qoniqarsiz 2 !";
+ } elseif( $ball == 1) {
+ 	echo "bahoingiz yomon 1 !";
+ } elseif ($ball == 0) {
+ 	echo "baho mavjud emas!";
+ }
 
 
 //*** 

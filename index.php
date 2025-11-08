@@ -1,5 +1,5 @@
 <?php
-//  comments
+//   PHP comments
 // birinchi php dasr
 # birinchi php dars
 /* birinchi php dars,

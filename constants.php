@@ -1,9 +1,8 @@
 	<?php
-	//  $ism = "So'najon";
-	//  $ism = "Ismigul";
-	//  echo $ism;
-	//  echo "\n";
-
+	  $ism = "So'najon";
+	  $ism = "Ismigul";
+	  echo $ism;
+	  echo "\n";
 	define("ISM","Nozima");
 	echo ISM;
 	define("USLUGA","4");

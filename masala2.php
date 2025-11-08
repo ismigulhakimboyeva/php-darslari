@@ -1,12 +1,12 @@
 <?php
-//$a =15;
-//$b =20;
+$a =15;
+$b =20;
 
-//if ($a == $b) {
-//	 echo "$b soni $a dan katta" ;
-//} elseif ($a < $b) {
- //echo "$a soni $b dan kichik";
-//}
+if ($a == $b) {
+	 echo "$b soni $a dan katta" ;
+} elseif ($a < $b) {
+ echo "$a soni $b dan kichik";
+}
 
 $ball = 6;
 if (ball **5) {
