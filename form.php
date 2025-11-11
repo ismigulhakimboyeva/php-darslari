@@ -1,9 +1,4 @@
-<?php
-$sarlavha = "2025-yilda IT sohasi";
-$matn = "IT (axborot texnologiyalari) sohasi – bu kompyuterlar, dasturlar va vositalar yordamida ma'lumotlarni saqlash, qayta ishlash va boshqarish bilan shug'ullanadi. Bu hayotimizning barcha jabha sohalarida — ta'lim, sog' quvvat saqlash, bank, ishlab chiqarish va hatto kundalik aloqa jarayonlarida muhim o'rin tutadi. IT xodimlarii dasturiy ta'minot, tizimlarni boshqaradi va' larni himoya qiladi. Hozirgi kunda IT sohasiga bo'lgan talab juda yuqori";
-?>
-
-		<!DOCTYPE html>
+	<!DOCTYPE html>
 <html lang="uz">
 <head>
   <meta charset="UTF-8">
@@ -89,10 +84,10 @@ button:hover {
 <body>
   <div class="form-container">
     <h2>POST Forma</h2>
-    <form action="process.php" method="POST">
+    <form action="data.php" method="POST">
       <div class="form-group">
         <label for="name">Ism:</label>
-        <input type="text" id="name" name="name" value="<?php echo $sarlavha ?>" placeholder="Ismingizni kiriting" required>
+        <input type="text" id="name" name="name"  placeholder="Ismingizni kiriting" required>
       </div>
 
       <div class="form-group">
@@ -103,7 +98,6 @@ button:hover {
       <div class="form-group">
         <label for="message">Xabar:</label>
         <textarea id="message" name="message" placeholder="Xabaringizni yozing..." required>
-					<?php echo $matn ?>
 				</textarea>
       </div>
 
