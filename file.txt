@@ -1,0 +1,3 @@
+include(yoki ) iborasi ko'rsatilgan faylda mavjud bo'lgan barcha matn/kod/belgilashni oladi va uni qo'shish iborasidan foydalanadigan faylga ko'chiradi. requir
+Bir xil PHP, HTML yoki matnni veb-saytning bir nechta sahifalariga qo'shmoqchi bo'lsangiz, fayllarni qo'shish juda foydali.
+
