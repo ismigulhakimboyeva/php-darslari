@@ -29,7 +29,5 @@ $content = file_get_contents('file.txt');
 //yozish
 file_put_contents('file.php','hello!' );
 // qo'shib yozish
-file_put_contents('file.php','hello!', FILE_APPEND );
-
-
+file_put_contents('file.php','hello!', FILE_APPEND ) ;
 ?>
