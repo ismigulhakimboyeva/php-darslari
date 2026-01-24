@@ -7,6 +7,5 @@ class Car {
 }
 $bmw = new Car();
 echo $bmw->info(). "<br>";
-echo Car::BRAND;
-
+echo Car::BRAND; 
 ?>
