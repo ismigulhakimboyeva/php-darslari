@@ -13,7 +13,7 @@
 		public function getName(){
 			return $this->name;
 		}
-	}
+	} 
 	class Dog extends Animal {
 		public function bark(){
 			return "Dog says woof-woof ! <br>";
