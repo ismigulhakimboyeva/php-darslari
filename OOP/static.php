@@ -14,4 +14,5 @@ class Calculator{
 echo Calculator::qoshish(5, 5)."<br>";
 echo Calculator::ayirish(10, 4) . "<br>";
 echo Calculator::text("hello world !");
+
 ?>
